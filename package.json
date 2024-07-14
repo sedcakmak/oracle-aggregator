@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@pythnetwork/client": "^2.21.1",
+    "@pythnetwork/price-service-client": "^1.9.0",
+    "@pythnetwork/pyth-solana-receiver": "^0.8.0",
+    "@solana/web3.js": "^1.95.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -12,6 +16,7 @@
     "@types/react-dom": "^18.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-number-format": "^5.4.0",
     "react-scripts": "5.0.1",
     "typescript": "^4.9.5",
     "web-vitals": "^2.1.4"
