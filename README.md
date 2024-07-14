@@ -20,13 +20,13 @@ To run this project locally, ensure you have Node.js installed on your machine.
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/sedcakmak/your-repository.git
+git clone https://github.com/sedcakmak/oracle-aggregator.git
 ```
 
 ### 2. Navigate into the project directory:
 
 ```bash
-cd your-repository
+cd oracle-aggregator
 ```
 
 ### 3. Install dependencies using npm:
