@@ -9,11 +9,11 @@ The Oracle Aggregator pulls price data from two oracle sources:
 - Pyth Network
 - Dia API
 
-It then calculates the average SOL/USD price and displays it on the frontend using React/Typescript.
+It then calculates the average SOL/USD price and displays it on the frontend using React/Typescript. 
 
 ## Requirements
 
-To run this project locally, ensure you have Node.js installed on your machine.
+To run this project locally, make sure you have Node.js installed on your machine.
 
 ## Getting Started
 
